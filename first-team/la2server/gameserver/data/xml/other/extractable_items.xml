@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- Упаковка: Украшенная Перьями Шляпа (7 дн.) (Dandy's Chapeau 7-Day Pack) Великое Лечение -->
+	<item id="21683" type="0">
+		<product id="20446" chance="10000" count="1" />
+	</item>
+	<!-- Упаковка: Купон на Ожерелье Питомца (1 шт.) -->
+	<item id="13276" type="0">
+		<product id="13273" chance="10000" count="1" />
+	</item>
+	<!-- Упаковка: Купон на Ожерелье Питомца (2 шт.) -->
+	<item id="14239" type="0">
+		<product id="21279" chance="10000" count="2" />
+	</item>
+	<!-- Упаковка: Купон на Ожерелье Питомца (1 шт.) -->
+	<item id="21277" type="0">
+		<product id="21279" chance="10000" count="1" />
+	</item>
+	<!-- Упаковка: Купон на Ожерелье Питомца (1 шт.) -->
+	<item id="21278" type="0">
+		<product id="21280" chance="10000" count="1" />
+	</item>
+	<!-- Упаковка: Купон на Ожерелье Питомца (1 шт.) -->
+	<item id="14248" type="0">
+		<product id="21279" chance="10000" count="1" />
+	</item>
+	<!-- Упаковка: Купон на Ожерелье Питомца (1 шт.) -->
+	<item id="14291" type="0">
+		<product id="21280" chance="10000" count="1" />
+	</item>
+	<!-- Упаковка: Купон на Ожерелье Питомца (2 шт.) -->
+	<item id="14290" type="0">
+		<product id="21280" chance="10000" count="2" />
+	</item>
+	<!-- Упаковка: Руна Опыта 30% (1 ч.) -->
+	<item id="21085" type="0">
+		<product id="20742" chance="10000" count="1" />
+	</item>
+	<!-- Упаковка: Руна Опыта 50% (5 ч.) -->
+	<item id="21602" type="0">
+		<product id="20336" chance="10000" count="1" />
+	</item>	
+	<!-- Упаковка: Агатион Китайский Актер (7 дн.) -->
+	<item id="20798" type="0">
+		<product id="20776" chance="10000" count="1" />
+	</item>
+	<!-- Фортуна Хаоса -->
+	<item id="21041" type="0">
+		<product id="8619" chance="2600" count="1" />
+		<product id="6622" chance="1900" count="3" />
+		<product id="8620" chance="1700" count="3" />
+		<product id="8618" chance="1400" count="3" />
+		<product id="21038" chance="500" count="6" />
+		<product id="9627" chance="500" count="1" />
+		<product id="14700" chance="400" count="25" />
+		<product id="14701" chance="400" count="12" />
+		<product id="21030" chance="200" count="4" />
+		<product id="21031" chance="200" count="4" />
+		<product id="21032" chance="100" count="8" />
+		<product id="21033" chance="100" count="8" />
+	</item>
+	<!-- Упаковка: Браслет MotoZ (7 дней) -->
+	<item id="21409" type="0">
+		<product id="21415" chance="10000" count="1" />
+	</item>
+	<!-- Упаковка: Браслет MotoZ (7 дней) Ивент -->
+	<item id="21410" type="0">
+		<product id="21416" chance="10000" count="1" />
+	</item>
+	<!-- Упаковка: Браслет MotoZ (30 дней) -->
+	<item id="21411" type="0">
+		<product id="21417" chance="10000" count="1" />
+	</item>
+	<!-- Упаковка: Браслет MotoZ (30 дней) Ивент -->
+	<item id="21412" type="0">
+		<product id="21418" chance="10000" count="1" />
+	</item>
+	<!-- Упаковка: Браслет MotoZ -->
+	<item id="21413" type="0">
+		<product id="21419" chance="10000" count="1" />
+	</item>
+	<!-- Упаковка: Браслет MotoZ Ивент -->
+	<item id="21414" type="0">
+		<product id="21420" chance="10000" count="1" />
+	</item>
+</list>
+
+

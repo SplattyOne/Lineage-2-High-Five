@@ -1,0 +1,6 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<announce delay="480" repeat="320">
+		<message text="Добро пожаловать на тестовый сервер игры Lineage 2. Блог посвященный игре - VLemon.info" />
+	</announce>
+</list>

@@ -1,0 +1,69 @@
+version: "3.7"
+
+services:
+  l2login_hf:
+    image: "l2login_hf"
+    build:
+      context: .
+      dockerfile: Dockerfile.login
+    restart: "always"
+    container_name: "l2login_hf"
+    cap_add:
+      - SYS_NICE
+    ports:
+      - "2106:2106"
+      - "9014:9014"
+    volumes:
+      - "/var/volumes-data/lineage2_hf/login/log:/opt/login/loginserver/log"
+      - "./config/login:/opt/login/loginserver/config"
+    depends_on:
+      - "l2mysql_hf"
+    networks:
+      - "l2_hf"
+
+  l2game_hf:
+    image: "l2game_hf"
+    build:
+      context: .
+      dockerfile: Dockerfile.game
+    restart: "always"
+    container_name: "l2game_hf"
+    ports:
+      - "7777:7777"
+    volumes:
+      - "/var/volumes-data/lineage2_hf/game/log:/opt/game/gameserver/log"
+      - "./config/game:/opt/game/gameserver/config"
+    depends_on:
+      - "l2mysql_hf"
+    networks:
+      - "l2_hf"
+
+  l2mysql_hf:
+    image: "mariadb"
+    restart: "always"
+    container_name: "l2mysql_hf"
+    environment:
+      MYSQL_ROOT_PASSWORD: 'password'
+    ports:
+      - "3306:3306"
+    volumes:
+      - "/var/volumes-data/lineage2_hf/db:/var/lib/mysql"
+      - "./config/tools:/opt/tools"
+    networks:
+      - "l2_hf"
+
+  l2adminer_hf:
+    image: "adminer"
+    restart: "always"
+    container_name: "l2adminer_hf"
+    ports:
+      - "8081:8080"
+    depends_on:
+      - "l2mysql_hf"
+    networks:
+      - "l2_hf"
+
+networks:
+  l2_hf:
+    name: "l2_hf"
+    external: true

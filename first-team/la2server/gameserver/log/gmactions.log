@@ -1,0 +1,33 @@
+[25.03.14 23:42:03] SUCCESS JoeDestin.su[268481078] admin_admin
+[25.03.14 23:42:44] FAIL    JoeDestin.su[268481078] admin_setcolor 121212
+[25.03.14 23:45:43] SUCCESS JoeDestin.su[268481078] -> JoeDestin.su[268481078] admin_setnoble
+[25.03.14 23:45:51] SUCCESS JoeDestin.su[268481078] -> JoeDestin.su[268481078] admin_setcolor 1212121
+[25.03.14 23:46:02] SUCCESS JoeDestin.su[268481078] -> JoeDestin.su[268481078] admin_setcolor 326100
+[25.03.14 23:46:35] SUCCESS JoeDestin.su[268481078] admin_admin
+[25.03.14 23:46:38] SUCCESS JoeDestin.su[268481078] -> JoeDestin.su[268481078] admin_invis
+[25.03.14 23:46:39] SUCCESS JoeDestin.su[268481078] -> JoeDestin.su[268481078] admin_admin
+[25.03.14 23:47:03] SUCCESS JoeDestin.su[268481078] -> JoeDestin.su[268481078] admin_add_exp_sp_to_character
+[25.03.14 23:47:07] SUCCESS JoeDestin.su[268481078] -> JoeDestin.su[268481078] admin_setlevel 84
+[25.03.14 23:47:11] SUCCESS JoeDestin.su[268481078] admin_admin
+[25.03.14 23:47:13] SUCCESS JoeDestin.su[268481078] admin_gmshop
+[25.03.14 23:47:15] SUCCESS JoeDestin.su[268481078] admin_show_html gmstore/gear/weapons.htm
+[25.03.14 23:47:23] SUCCESS JoeDestin.su[268481078] admin_buy 9907
+[25.03.14 23:47:47] SUCCESS JoeDestin.su[268481078] admin_admin
+[25.03.14 23:47:50] SUCCESS JoeDestin.su[268481078] admin_gmshop
+[25.03.14 23:47:52] SUCCESS JoeDestin.su[268481078] admin_show_html gmstore/gear/armor.htm
+[25.03.14 23:47:55] SUCCESS JoeDestin.su[268481078] admin_buy 9957
+[25.03.14 23:47:57] SUCCESS JoeDestin.su[268481078] admin_admin
+[25.03.14 23:48:23] SUCCESS JoeDestin.su[268481078] admin_gmshop
+[25.03.14 23:48:27] SUCCESS JoeDestin.su[268481078] admin_show_html gmstore/hair.htm
+[25.03.14 23:48:29] SUCCESS JoeDestin.su[268481078] admin_buy 9944
+[25.03.14 23:48:30] SUCCESS JoeDestin.su[268481078] admin_admin
+[25.03.14 23:48:32] SUCCESS JoeDestin.su[268481078] admin_gmshop
+[25.03.14 23:48:37] SUCCESS JoeDestin.su[268481078] admin_show_html gmstore/hair.htm
+[25.03.14 23:48:39] SUCCESS JoeDestin.su[268481078] admin_buy 9920
+[25.03.14 23:49:42] SUCCESS JoeDestin.su[268481078] admin_admin
+[25.03.14 23:49:47] SUCCESS JoeDestin.su[268481078] admin_gmshop
+[25.03.14 23:49:51] SUCCESS JoeDestin.su[268481078] admin_show_html gmstore/gear/armor.htm
+[25.03.14 23:49:54] SUCCESS JoeDestin.su[268481078] admin_buy 9958
+[25.03.14 23:50:59] SUCCESS JoeDestin.su[268481078] admin_admin
+[25.03.14 23:51:01] SUCCESS JoeDestin.su[268481078] admin_gmshop
+[25.03.14 23:51:03] SUCCESS JoeDestin.su[268481078] admin_buy 9909

@@ -1,0 +1,1509 @@
+[05:00:41]  INFO =================================================
+[05:00:41]  INFO Revision: ................ ${build.revision}
+[05:00:41]  INFO Build date: .............. 2013.08.29 00:09
+[05:00:41]  INFO Compiler version: ........ 1.7.0_25-b16 (Oracle Corporation)
+[05:00:41]  INFO =================================================
+[05:00:41] ERROR Error loading config : Phantoms.ini!
+[05:00:41]  INFO Abuse: Loaded 18 abuse words.
+[05:00:41]  INFO Gameserver Version: 2149, build date: 2015.04.21 11:30		
+[05:00:41]  INFO IdFactory: Clear characters online status.
+[05:00:41]  INFO IdFactory: Extracted 1 used id's from characters
+[05:00:41]  INFO IdFactory: Extracted 36 used id's from items
+[05:00:41]  INFO IdFactory: Extracted total 37 used id's.
+[05:00:41]  INFO IdFactory: 102912 id's available.
+[05:00:41]  INFO Scripts: Loading...
+[05:00:42]  INFO Scripts: Loaded 1199 classes.
+[05:00:42]  INFO Loaded 418 translit entries.
+[05:00:42]  INFO GameTimeController: initialized. Current time is 12:04 in the day.
+[05:00:42]  INFO L2World: Creating regions: [256][272][32].
+[05:00:42]  INFO HtmCache: disabled.
+[05:00:42]  INFO StringHolder: load strings: 510 for lang: ENGLISH
+[05:00:42]  INFO StringHolder: load strings: 511 for lang: RUSSIAN
+[05:00:45]  INFO SkillsEngine: Loaded 66010 skill templates from XML files. Max id: 90003, max level: 259
+[05:00:46]  INFO OptionDataHolder: loaded 24975 option data(s) count.
+[05:00:47]  INFO ItemHolder: loaded 19128 item(s) count.
+[05:00:47]  INFO ExtractableItems: Initializing
+[05:00:47]  INFO ExtractableItems: Loaded 18 Extractable.
+[05:00:50]  INFO NpcHolder: loaded 10456 npc(s) count.
+[05:00:50]  INFO MapRegionManager: loaded 272 map region manager(s) count.
+[05:00:50]  INFO MapRegionManager: loaded 272 map region manager(s) count.
+[05:00:50]  INFO StaticObjectHolder: loaded 50 static object(s) count.
+[05:00:50]  INFO DoorHolder: loaded 1155 door(s) count.
+[05:00:50]  INFO ZoneHolder: loaded 1141 zone(s) count.
+[05:00:51]  INFO SpawnHolder: loaded 28888 spawn(s) count.
+[05:00:51]  INFO InstantZoneHolder: loaded 95 instant zone(s) count.
+[05:00:51]  INFO AirshipDockHolder: loaded 4 airship dock(s) count.
+[05:00:52]  INFO SkillAcquireHolder: load 57209 normal learns for 103 classes.
+[05:00:52]  INFO SkillAcquireHolder: load 79 transfer learns for 3 classes.
+[05:00:52]  INFO SkillAcquireHolder: load 120 transformation learns for 6 races.
+[05:00:52]  INFO SkillAcquireHolder: load 662 fishing learns for 6 races.
+[05:00:52]  INFO SkillAcquireHolder: load 72 certification learns.
+[05:00:52]  INFO SkillAcquireHolder: load 3 collection learns.
+[05:00:52]  INFO SkillAcquireHolder: load 44 pledge learns.
+[05:00:52]  INFO SkillAcquireHolder: load 18 sub unit learns.
+[05:00:52]  INFO CharTemplateHolder: loaded 206 char template(s) count.
+[05:00:52]  INFO ResidenceHolder: total size: 83
+[05:00:52]  INFO ResidenceHolder:  - load 44 clanhall(s).
+[05:00:52]  INFO ResidenceHolder:  - load 9 castle(s).
+[05:00:52]  INFO ResidenceHolder:  - load 9 dominion(s).
+[05:00:52]  INFO ResidenceHolder:  - load 21 fortress(s).
+[05:00:52]  INFO RaidBossSpawnManager: Loaded 0 Statuses
+[05:00:52]  INFO SevenSigns: Currently in the Competition (Quest Event) period!
+[05:00:52]  INFO SevenSigns: The Seal of Avarice remains unclaimed.
+[05:00:52]  INFO SevenSigns: The Seal of Gnosis remains unclaimed.
+[05:00:52]  INFO SevenSigns: The Seal of Strife remains unclaimed.
+[05:00:52]  INFO SevenSigns: The Competition this week, if the trend continue, will end with a tie.
+[05:00:52]  INFO SevenSigns: Next period begins in 2 days, 12 hours and 59 mins.
+[05:00:52]  INFO EventHolder: loaded 95 event(s) count.
+[05:00:52]  INFO CubicHolder: loaded 145 cubic(s) count.
+[05:00:52]  INFO TradeController: Loaded 4 file(s).
+[05:00:52]  INFO TradeController: Loaded 24917 Items.
+[05:00:52]  INFO TradeController: Loaded 726 Buylists.
+[05:00:52]  INFO RecipeController: Loaded 998 Recipes.
+[05:00:52]  INFO ProductItemTable: Loaded 193 product item on sale.
+[05:00:52]  INFO HennaHolder: loaded 180 henna(s) count.
+[05:00:52]  INFO EnchantItemHolder: load 4 enchant scroll(s).
+[05:00:52]  INFO SoulCrystalHolder: loaded 54 soul crystal(s) count.
+[05:00:52]  INFO ArmorSetsHolder: loaded 198 armor sets(s) count.
+[05:00:52]  INFO PetitionGroupHolder: loaded 1 petition group(s) count.
+[05:00:52]  INFO CrestCache: Loaded 0 crests
+[05:00:52]  INFO FishTable: Loaded 270 fishes.
+[05:00:52]  INFO FishTable: Loaded 919 fish rewards.
+[05:00:52]  INFO SkillTreeTable: Loaded 526 enchanted skills.
+[05:00:52]  INFO Initializing AugmentationData.
+[05:00:53]  INFO AugmentationData: 10 bad skill(s) were skipped.
+[05:00:53]  INFO AugmentationData: Loaded: 52 augmentation stats.
+[05:00:53]  INFO AugmentationData: Loaded: 24 accessory augmentation stats.
+[05:00:53]  INFO AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 0
+[05:00:53]  INFO AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 1
+[05:00:53]  INFO AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 2
+[05:00:53]  INFO AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 3
+[05:00:53]  INFO AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 4
+[05:00:53]  INFO AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 5
+[05:00:53]  INFO AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 6
+[05:00:53]  INFO AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 7
+[05:00:53]  INFO AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 8
+[05:00:53]  INFO AugmentationData: Loaded: 17 blue, 106 purple and 54 red skills for lifeStoneLevel 9
+[05:00:53]  INFO EnchantHPBonusTable: Loaded bonuses for 6 grades.
+[05:00:53]  INFO LevelUpData: Loaded 103 Character Level Up Templates.
+[05:00:53]  INFO PetSkillsTable: Loaded 2219 skills.
+[05:00:53]  INFO Initializing ItemAuctionManager
+[05:00:53]  INFO AntharasManager: State of Antharas is NOTSPAWN.
+[05:00:53]  INFO AntharasManager: Next spawn date of Antharas is 03:00 01.01.1970.
+[05:00:53]  INFO BaiumManager: State of Baium is NOTSPAWN.
+[05:00:53]  INFO BaiumManager: Next spawn date: 03:00 01.01.1970
+[05:00:53]  INFO Beleth Manager: Loaded successfuly
+[05:00:53]  INFO FourSepulchersManager: Loaded 20 Mysterious-Box spawns.
+[05:00:53]  INFO FourSepulchersManager: loaded 716 physical monsters spawns.
+[05:00:53]  INFO FourSepulchersManager: loaded 716 magical monsters spawns.
+[05:00:53]  INFO FourSepulchersManager: loaded 92 Church of duke monsters spawns.
+[05:00:53]  INFO FourSepulchersManager: loaded 68 Emperor's grave NPC spawns.
+[05:00:53]  INFO FourSepulchersManager: Spawned Conquerors' Sepulcher Manager
+[05:00:53]  INFO FourSepulchersManager: Spawned Emperors' Sepulcher Manager
+[05:00:53]  INFO FourSepulchersManager: Spawned Great Sages' Sepulcher Manager
+[05:00:53]  INFO FourSepulchersManager: Spawned Judges' Sepulcher Manager
+[05:00:53]  INFO FourSepulchersManager: Beginning in Attack time
+[05:00:53]  INFO SailrenManager: State of Sailren is NOTSPAWN.
+[05:00:53]  INFO SailrenManager: Next spawn date of Sailren is 03:00 01.01.1970.
+[05:00:53]  INFO ValakasManager: State of Valakas is NOTSPAWN.
+[05:00:53]  INFO ValakasManager: Next spawn date of Valakas is 03:00 01.01.1970.
+[05:00:53]  INFO Sat Apr 09 05:00:53 MSK 2022 Atk announce scheduled to 0.0 minute of this hour.
+[05:00:53]  INFO Event Capture The Flag started in 992 mins.
+[05:00:53]  INFO Event TvT started in 455 mins.
+[05:00:54]  INFO PetDataTable: Loaded 2322 pets.
+[05:00:54]  INFO ManorManager: Loaded 270 seeds
+[05:00:55]  INFO Loaded Service: ScripsConfig
+[05:00:55]  INFO Loaded Service: Bash [disabled]
+[05:00:55]  INFO CommunityBoard: Clan Community service loaded.
+[05:00:55]  INFO CommunityBoard: service loaded.
+[05:00:55]  INFO CommunityBoard: Stats service loaded.
+[05:00:55]  INFO CommunityBoard: Buffer Community service loaded.
+[05:00:55]  INFO CommunityBoard: Enchant Community service loaded.
+[05:00:55]  INFO CommunityBoard: Manage Favorites service loaded.
+[05:00:55]  INFO CommunityBoard: Manage Friends service loaded.
+[05:00:55]  INFO CommunityBoard: Manage Memo service loaded.
+[05:00:55]  INFO CommunityBoard: Manage Career service loaded.
+[05:00:55]  INFO CommunityBoard: Manager Community services loaded.
+[05:00:55]  INFO CommunityBoard: Teleport Community service loaded.
+[05:00:55]  INFO CommunityBoard: Private Mail service loaded.
+[05:00:55]  INFO CommunityBoard: Region service loaded.
+[05:00:55]  INFO SpawnManager: spawned 1000 npc for group: NONE
+[05:00:56]  INFO SpawnManager: spawned 8000 npc for group: NONE
+[05:00:56]  INFO SpawnManager: spawned 8000 npc for group: NONE
+[05:00:57]  INFO SpawnManager: spawned 12000 npc for group: NONE
+[05:00:57]  INFO SpawnManager: spawned 18000 npc for group: NONE
+[05:00:58]  INFO SpawnManager: spawned 19000 npc for group: NONE
+[05:00:58]  INFO SpawnManager: spawned 20000 npc for group: NONE
+[05:01:00]  INFO SpawnManager: spawned 23000 npc for group: NONE
+[05:01:00]  INFO SpawnManager: spawned 25000 npc for group: NONE
+[05:01:01]  INFO SpawnManager: spawned 26000 npc for group: NONE
+[05:01:01]  INFO Naia Tower Manager: Loaded 12 rooms
+[05:01:01]  INFO SpawnManager: spawned 28000 npc for group: NONE
+[05:01:04]  INFO SpawnManager: spawned 36000 npc for group: NONE
+[05:01:04]  INFO SpawnManager: spawned 37000 npc for group: NONE
+[05:01:05]  INFO SpawnManager: spawned 37937 npc; spawns: 17009; group: NONE
+[05:01:05]  INFO BoatHolder: loaded 2 boat(s) count.
+[05:01:05]  INFO BoatHolder: Spawning: AdenGracia_Airship
+[05:01:05]  INFO BoatHolder: Spawning: RunePrimeval_Vehicle
+[05:01:05]  INFO StaticObjectHolder: spawned: 50 static object(s).
+[05:01:05]  INFO DimensionalRiftManager: Loaded 13 room types with 112 rooms.
+[05:01:05]  INFO DimensionalRiftManager: Loaded 300 DimensionalRift spawns, 0 errors.
+[05:01:05]  INFO AutoSpawnHandler: Loaded 50 handlers in total.
+[05:01:05]  INFO Olympiad System: Loading Olympiad System....
+[05:01:05]  INFO Olympiad System: Currently in Olympiad Period
+[05:01:05]  INFO Olympiad System: Period Ends....
+[05:01:05]  INFO Olympiad System: In 21 days, 18 hours and 59 mins.
+[05:01:05]  INFO Olympiad System: Next Weekly Change is in....
+[05:01:05]  INFO Olympiad System: In 6 days, 20 hours and 9 mins.
+[05:01:05]  INFO Olympiad System: Loaded 0 Noblesses
+[05:01:05]  INFO Olympiad System: Competition Period Starts in 0 days, 12 hours and 58 mins.
+[05:01:05]  INFO Olympiad System: Event starts/started: Sat Apr 09 18:00:05 MSK 2022
+[05:01:05]  INFO Hero System: Loaded 0 Heroes.
+[05:01:05]  INFO Hero System: Loaded 0 all time Heroes.
+[05:01:05]  INFO Initializing PetitionManager
+[05:01:05]  INFO CursedWeaponsManager: Loaded 2 cursed weapon(s).
+[05:01:05]  INFO Initializing CoupleManager
+[05:01:05]  INFO Loaded: 0 couples(s)
+[05:01:05]  INFO CoupleManager initialized
+[05:01:05]  INFO AdminCommandHandler: loaded 348 admin command handler(s) count.
+[05:01:05]  INFO UserCommandHandler: loaded 16 user command handler(s) count.
+[05:01:05]  INFO VoicedCommandHandler: loaded 39 voiced command handler(s) count.
+[05:01:05]  INFO =[Events]=========================================
+[05:01:05]  INFO CastleSiegeEvent: Gludio Castle time - 16:00 17.04.2022
+[05:01:05]  INFO CastleSiegeEvent: Dion Castle time - 16:00 17.04.2022
+[05:01:05]  INFO CastleSiegeEvent: Giran Castle time - 20:00 17.04.2022
+[05:01:05]  INFO CastleSiegeEvent: Oren Castle time - 20:00 17.04.2022
+[05:01:05]  INFO CastleSiegeEvent: Aden Castle time - 16:00 17.04.2022
+[05:01:05]  INFO CastleSiegeEvent: Innadril Castle time - 20:00 17.04.2022
+[05:01:05]  INFO CastleSiegeEvent: Goddard Castle time - 20:00 17.04.2022
+[05:01:05]  INFO CastleSiegeEvent: Rune Castle time - 16:00 17.04.2022
+[05:01:05]  INFO CastleSiegeEvent: Schuttgart Castle time - 16:00 17.04.2022
+[05:01:05]  INFO ClanHallNpcSiegeEvent: Fortress Of Resistance time - 18:00 11.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Moonstone Hall time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Onyx Hall time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Topaz Hall time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Ruby Hall time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Crystal Hall time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Onyx Hall time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Sapphire Hall time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Moonstone Hall time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Emerald Hall time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: The Atramental Barracks time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: The Scarlet Barracks time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: The Viridian Barracks time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallSiegeEvent: Devastated Castle time - 18:00 16.04.2022
+[05:01:05]  INFO ClanHallTeamBattleEvent: Bandit Stronghold time - 22:00 16.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: The Golden Chamber time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: The Silver Chamber time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: The Mithril Chamber time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Silver Manor time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Gold Manor time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: The Bronze Chamber time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: The Golden Chamber time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: The Silver Chamber time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: The Mithril Chamber time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: The Bronze Chamber time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Silver Manor time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Moonstone Hall time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Onyx Hall time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Emerald Hall time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Sapphire Hall time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Mont Chamber time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Astaire Chamber time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Aria Chamber time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Yiana Chamber time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Roien Chamber time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Luna Chamber time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Traban Chamber time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Eisen Hall time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Heavy Metal Hall time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Molten Ore Hall time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallAuctionEvent: Titan Hall time - 15:00 04.04.2022
+[05:01:05]  INFO ClanHallMiniGameEvent: Rainbow Springs time - 22:00 16.04.2022
+[05:01:05]  INFO ClanHallTeamBattleEvent: Wild Beast Reserve time - 21:00 16.04.2022
+[05:01:05]  INFO ClanHallSiegeEvent: Fortress of Dead time - 18:00 16.04.2022
+[05:01:05]  INFO DominionSiegeEvent: Gludio Dominion time - undefined
+[05:01:05]  INFO DominionSiegeEvent: Dion Dominion time - undefined
+[05:01:05]  INFO DominionSiegeEvent: Giran Dominion time - undefined
+[05:01:05]  INFO DominionSiegeEvent: Oren Dominion time - undefined
+[05:01:05]  INFO DominionSiegeEvent: Aden Dominion time - undefined
+[05:01:05]  INFO DominionSiegeEvent: Innadril Dominion time - undefined
+[05:01:05]  INFO DominionSiegeEvent: Goddard Dominion time - undefined
+[05:01:05]  INFO DominionSiegeEvent: Rune Dominion time - undefined
+[05:01:05]  INFO DominionSiegeEvent: Schuttgart Dominion time - undefined
+[05:01:05]  INFO FortressSiegeEvent: Shanty Fortress time - undefined
+[05:01:06]  INFO FortressSiegeEvent: Southern Fortress time - undefined
+[05:01:06]  INFO FortressSiegeEvent: Hive Fortress time - undefined
+[05:01:06]  INFO FortressSiegeEvent: Valley Fortress time - undefined
+[05:01:06]  INFO FortressSiegeEvent: Ivory Fortress time - undefined
+[05:01:06]  INFO FortressSiegeEvent: Narsell Fortress time - undefined
+[05:01:06]  INFO FortressSiegeEvent: Bayou Fortress time - undefined
+[05:01:06]  INFO FortressSiegeEvent: White Sands Fortress time - undefined
+[05:01:06]  INFO FortressSiegeEvent: Borderland Fortress time - undefined
+[05:01:06]  INFO FortressSiegeEvent: Swamp Fortress time - undefined
+[05:01:06]  INFO FortressSiegeEvent: Archaic Fortress time - undefined
+[05:01:06]  INFO FortressSiegeEvent: Floran Fortress time - undefined
+[05:01:06]  INFO FortressSiegeEvent: Cloud Mountain Fortress time - undefined
+[05:01:06]  INFO FortressSiegeEvent: Tanor Fortress time - undefined
+[05:01:06]  INFO FortressSiegeEvent: Dragonspine Fortress time - undefined
+[05:01:06]  INFO FortressSiegeEvent: Antharas Fortress time - undefined
+[05:01:06]  INFO FortressSiegeEvent: Western Fortress time - undefined
+[05:01:06]  INFO FortressSiegeEvent: Hunter's Fortress time - undefined
+[05:01:06]  INFO FortressSiegeEvent: Aaru Fortress time - undefined
+[05:01:06]  INFO FortressSiegeEvent: Demon Fortress time - undefined
+[05:01:06]  INFO FortressSiegeEvent: Monastic Fortress time - undefined
+[05:01:06]  INFO KrateisCubeEvent: Krateis Cube 70-75 Level time - 05:30 09.04.2022
+[05:01:06]  INFO KrateisCubeEvent: Krateis Cube 76-79 Level time - 05:30 09.04.2022
+[05:01:06]  INFO KrateisCubeEvent: Krateis Cube 80-85 Level time - 05:30 09.04.2022
+[05:01:06]  INFO ==================================================
+[05:01:06]  INFO Manor System: Initializing...
+[05:01:06]  INFO IdFactory: Free ObjectID's remaining: 1879005050
+[05:01:06]  INFO HellboundManager: Loaded 335 spawn entries.
+[05:01:06]  INFO HellboundManager: Spawned 623 mobs and NPCs according to the current Hellbound stage
+[05:01:06]  INFO Hellbound Manager: Loaded
+[05:01:06]  INFO Naia Core Manager: Loaded
+[05:01:06]  INFO Seed of Destruction Manager: Loaded
+[05:01:06]  INFO Seed of Infinity Manager: Loaded. Current stage is: 1
+[05:01:06]  INFO SpawnManager: spawned 4 npc; spawns: 4; group: soi_world_mouths
+[05:01:06]  INFO SpawnManager: spawned 1 npc; spawns: 1; group: soi_world_abyssgaze2
+[05:01:06]  INFO Blood Altar Manager: Initializing...
+[05:01:06]  INFO SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_alive_npc
+[05:01:06]  INFO Scheduled server restart in 23h 58m 54s.
+[05:01:06]  INFO GameServer Started
+[05:01:06]  INFO Maximum Numbers of Connected Players: 3000
+[05:01:06]  INFO Connecting to authserver on 192.168.1.106:9014
+[05:01:06]  INFO AutoAnnounce: Initializing
+[05:01:06]  INFO AutoAnnounce: Load OK
+[05:01:06]  INFO AutoAnnounce: Loaded 1 announce.
+[05:01:06]  INFO Registered on authserver as 1 [Bartz]
+[05:01:06]  INFO SpawnManager: spawned 653 npc; spawns: 429; group: dawn_spawn
+[05:01:06]  INFO SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[05:01:06]  INFO SpawnManager: spawned 653 npc; spawns: 429; group: dusk_spawn
+[05:01:06]  INFO Telnet server is currently disabled.
+[05:01:06]  INFO =================================================
+[05:01:06]  INFO AllowedMemory: ........... 932352 KB
+[05:01:06]  INFO      Allocated: .......... 932352 KB (100.0%)
+[05:01:06]  INFO      Non-Allocated: ...... 0 KB (0.0%)
+[05:01:06]  INFO AllocatedMemory: ......... 932352 KB
+[05:01:06]  INFO      Used: ............... 632004 KB (67.7861%)
+[05:01:06]  INFO      Unused (cached): .... 300347 KB (32.2139%)
+[05:01:06]  INFO UseableMemory: ........... 300347 KB (32.2139%)
+[05:01:06]  INFO 
+[05:01:06]  INFO =================================================
+================================================================================
+          		Server Version:2149
+                                 First-Team                                     
+================================================================================
+###      ###                             ############                           
+###      ###                  ###        ############                           
+###      ###                  ###        ###	                                
+############  ###   ######    #######    ##########  ###  ###     ###  #########
+############  ###  ###   ###  ###   ###  #########   ###   ###   ###   #########
+###      ###  ###  ###   ###  ###   ###  ###         ###    ### ###    ###==    
+###      ###  ###   #######   ###   ###  ###         ###     #####     #########
+###      ###  ###        ###  ###   ###  ###         ###      ###      #########
+                     ######                                                     
+================================================================================
+[05:01:36] ERROR Error while restoring offline traders!
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2450)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2371)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2355)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeUpdate(DelegatingPreparedStatement.java:105)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeUpdate(DelegatingPreparedStatement.java:105)
+	at l2ft.gameserver.taskmanager.tasks.RestoreOfflineTraders.runImpl(RestoreOfflineTraders.java:39)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[05:01:36]  INFO Restored 0 offline traders
+[05:11:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[05:21:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[05:31:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[05:41:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[05:50:53]  INFO FourSepulchersManager: Entry time: Sat Apr 09 05:55:53 MSK 2022
+[05:51:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[06:00:00]  INFO Manor System: Next period approved
+[06:01:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[06:01:06]  INFO SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_dead_npc
+[06:01:06]  INFO SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_aden
+[06:01:06]  INFO SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_darkelf
+[06:01:06]  INFO SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_dion
+[06:01:06]  INFO SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_dwarw
+[06:01:06]  INFO SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_giran
+[06:01:06]  INFO SpawnManager: spawned 3 npc; spawns: 3; group: bloodaltar_boss_gludin
+[06:01:06]  INFO SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_gludio
+[06:01:06]  INFO SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_goddart
+[06:01:06]  INFO SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_heine
+[06:01:06]  INFO SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_orc
+[06:01:06]  INFO SpawnManager: spawned 2 npc; spawns: 2; group: bloodaltar_boss_oren
+[06:01:06]  INFO SpawnManager: spawned 1 npc; spawns: 1; group: bloodaltar_boss_schutgart
+[06:11:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[06:21:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[06:30:00]  INFO Recommendation Global Task: launched.
+[06:30:00]  INFO Navit System Global Task: launched.
+[06:30:00]  INFO Recommendation Global Task: completed.
+[06:30:00]  INFO Navit System Task: completed.
+[06:31:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[06:41:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[06:50:53]  INFO FourSepulchersManager: Entry time: Sat Apr 09 06:55:53 MSK 2022
+[06:51:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[07:00:00]  INFO SpawnManager: spawned 444 npc; spawns: 122; group: NIGHT
+[07:01:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[07:11:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[07:21:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[07:31:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[07:31:06]  INFO SpawnManager: spawned 51 npc; spawns: 51; group: bloodaltar_alive_npc
+[07:41:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[07:50:53]  INFO FourSepulchersManager: Entry time: Sat Apr 09 07:55:53 MSK 2022
+[07:51:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[08:00:00]  INFO SpawnManager: spawned 443 npc; spawns: 121; group: DAY
+[08:01:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[08:11:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[08:21:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[08:31:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[08:41:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[08:50:53]  INFO FourSepulchersManager: Entry time: Sat Apr 09 08:55:53 MSK 2022
+[08:51:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[09:01:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[09:11:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[09:21:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[09:31:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[09:41:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[09:50:53]  INFO FourSepulchersManager: Entry time: Sat Apr 09 09:55:53 MSK 2022
+[09:51:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[10:01:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[10:11:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[10:21:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[10:31:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[10:41:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[10:50:53]  INFO FourSepulchersManager: Entry time: Sat Apr 09 10:55:53 MSK 2022
+[10:51:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[11:00:00]  INFO SpawnManager: spawned 444 npc; spawns: 122; group: NIGHT
+[11:01:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[11:11:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[11:21:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[11:31:05] ERROR 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2ft.character_variables' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.Util.getInstance(Util.java:386)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1053)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4074)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4006)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2468)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2629)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2719)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2318)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.DeleteExpiredVarsTask.doTask(DeleteExpiredVarsTask.java:40)
+	at l2ft.gameserver.taskmanager.actionrunner.tasks.AutomaticTask.runImpl0(AutomaticTask.java:24)
+	at l2ft.gameserver.taskmanager.actionrunner.ActionWrapper.runImpl(ActionWrapper.java:43)
+	at l2ft.commons.threading.RunnableImpl.run(RunnableImpl.java:21)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Shutting down LS/GS communication...
+Shutting down scripts...
+Disconnecting players...
+Saving data...
+SevenSignsFestival: Data saved.
+SevenSigns: Data saved.
+Olympiad: Data saved.
+FishingChampionShipManager: Data saved.
+Hero: Data saved.
+CursedWeaponsManager: Data saved,
+Shutting down thread pool...
+Shutting down selector...
+Shutting down database communication...
+Shutdown finished.

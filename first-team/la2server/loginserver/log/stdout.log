@@ -1,0 +1,7 @@
+[12:52:05]  INFO Loaded 127 server names
+[12:52:06]  INFO Loaded whirlpool2 as default crypt.
+[12:52:06]  INFO Cached 10 KeyPairs for RSA communication
+[12:52:06]  INFO Stored 20 keys for Blowfish communication
+[12:52:06]  INFO Loaded 1 registered GameServer(s).
+[12:52:06]  INFO Listening for gameservers on 192.168.1.106:9014
+[12:52:06]  INFO Listening for clients on *:2106

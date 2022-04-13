@@ -1,0 +1,6 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<announce delay="480" repeat="320">
+		<message text="Добро пожаловать на тестовый сервер Tomatto игры Lineage 2 только для пидаров." />
+	</announce>
+</list>
